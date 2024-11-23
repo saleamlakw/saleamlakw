@@ -7,17 +7,6 @@
 
 Hello there! 👋 Welcome to my GitHub profile. I'm Saleamlak Wendmnew, a passionate developer who loves to code and build amazing things. I'm enthusiastic about open-source projects, and you can find some of my work here on GitHub.
 
-## 🔧 Technologies & Tools
-
-<p>   
-
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40">
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" alt="selenium" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="cplusplus" alt="selenium" width="40" height="40">
-</p>
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saleamlakw&show_icons=true&theme=radical)
@@ -30,6 +19,7 @@ Hello there! 👋 Welcome to my GitHub profile. I'm Saleamlak Wendmnew, a passio
 You can connect with me on different platforms:
 
 - Email: <wendmnewsaleamlak@gmail.com>
+- linkedin : <linkedin.com/in/saleamlak-wendmnew-016670254>
 
 Feel free to drop me a message or connect with me! I'm always open to collaboration and exciting new projects.
 
